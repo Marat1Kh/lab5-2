@@ -4,7 +4,7 @@ class Database {
     private $host = "localhost";
     private $user = "root";
     private $db = "db_schema";
-    private $pwd = "Makok1q34!";
+    private $pwd = "";
     private $conn = NULL;
 
     public function connect() {
